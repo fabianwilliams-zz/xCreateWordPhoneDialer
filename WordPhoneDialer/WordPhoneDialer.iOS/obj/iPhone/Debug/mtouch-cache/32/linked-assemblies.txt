@@ -1,0 +1,4 @@
+/Users/devpreso/Documents/1CodeProjects/Xamarin/Learning/xCreateWordPhoneDialer/WordPhoneDialer/WordPhoneDialer.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/System.dll
+/Users/devpreso/Documents/1CodeProjects/Xamarin/Learning/xCreateWordPhoneDialer/WordPhoneDialer/WordPhoneDialer.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/mscorlib.dll
+/Users/devpreso/Documents/1CodeProjects/Xamarin/Learning/xCreateWordPhoneDialer/WordPhoneDialer/WordPhoneDialer.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/WordPhoneDialeriOS.exe
+/Users/devpreso/Documents/1CodeProjects/Xamarin/Learning/xCreateWordPhoneDialer/WordPhoneDialer/WordPhoneDialer.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.iOS.dll
